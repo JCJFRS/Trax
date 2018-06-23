@@ -1,0 +1,2 @@
+Day, Month, Year, Hour, Minute, Second, GyroXBias, GyroYBias, GyroZBias, MagXBias, MagYBias, GyroCalDuration, MagCalCircles
+18, 6, 2018, 0, 54, 18, -0.660787, -1.302755, -0.592298, 15.060112, 2.578829, 20.000000, 1.000000
